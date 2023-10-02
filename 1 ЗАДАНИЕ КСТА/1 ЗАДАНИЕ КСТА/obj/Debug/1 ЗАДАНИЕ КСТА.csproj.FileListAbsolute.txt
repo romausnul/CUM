@@ -1,0 +1,3 @@
+D:\projects\CSharp\1 ЗАДАНИЕ КСТА\1 ЗАДАНИЕ КСТА\obj\Debug\1 ЗАДАНИЕ КСТА.csproj.AssemblyReference.cache
+D:\projects\CSharp\1 ЗАДАНИЕ КСТА\1 ЗАДАНИЕ КСТА\obj\Debug\App.g.cs
+D:\projects\CSharp\1 ЗАДАНИЕ КСТА\1 ЗАДАНИЕ КСТА\obj\Debug\1 ЗАДАНИЕ КСТА_MarkupCompile.cache
