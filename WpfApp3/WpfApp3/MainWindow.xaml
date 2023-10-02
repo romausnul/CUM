@@ -1,0 +1,14 @@
+﻿<Window x:Class="LibraryAuthentication.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Авторизация в библиотеку" Height="400.52" Width="537.793">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Введите имя пользователя:"/>
+            <TextBox x:Name="UsernameTextBox"/>
+            <TextBlock Text="Введите пароль:"/>
+            <PasswordBox x:Name="PasswordBox"/>
+            <Button Content="Войти" Click="LoginButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

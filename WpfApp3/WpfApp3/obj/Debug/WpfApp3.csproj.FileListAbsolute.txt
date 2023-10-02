@@ -1,0 +1,14 @@
+D:\projects\CSharp\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+D:\projects\CSharp\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+D:\projects\CSharp\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+D:\projects\CSharp\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+D:\projects\CSharp\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+D:\projects\CSharp\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+D:\projects\CSharp\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+D:\projects\CSharp\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+D:\projects\CSharp\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+D:\projects\CSharp\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+D:\projects\CSharp\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+D:\projects\CSharp\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+D:\projects\CSharp\WpfApp3\WpfApp3\obj\Debug\Авторизация библиотеки 27.09.baml
+D:\projects\CSharp\WpfApp3\WpfApp3\obj\Debug\Авторизация библиотеки 27.09.g.cs
